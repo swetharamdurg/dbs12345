@@ -1,3 +1,5 @@
 This is first line in a.txt
 This is second line of a.txt
 This is the 3rd line of a.txt
+This is the 4th line of b.txt
+
