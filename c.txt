@@ -1,0 +1,3 @@
+This is first line in c.txt
+
+This is 2md line
